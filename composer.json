@@ -29,7 +29,8 @@
     "superbalist/flysystem-google-storage": "^7.2",
     "aws/aws-sdk-php": "^3.133.20",
     "phpspec/phpspec": "^6.1.1",
-    "friends-of-phpspec/phpspec-code-coverage": "^4.3"
+    "friends-of-phpspec/phpspec-code-coverage": "^4.3",
+    "async-aws/flysystem-s3": "^0.4.2"
   },
   "suggest": {
     "mhetreramesh/flysystem-backblaze": "B2 adapter support.",
